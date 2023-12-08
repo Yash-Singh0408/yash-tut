@@ -1,2 +1,2 @@
 # yash-tut
-my  namae is yash
+my  nama is yash
